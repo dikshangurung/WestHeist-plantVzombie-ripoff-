@@ -21,8 +21,8 @@ wall=200
 Fox can jump over wall(Fox and wall I have copied completely from source code)
 
 /*this game is just a demo it is still unfinished*/
-/*Assets we downloaded from https://craftpix.net/freebies/ then modified in using photoshop(pirated 😅)
-/*this is just my one of the first game that i had created*//*Many things i had been inspired and some i copied*/
+/*Assets we downloaded from https://craftpix.net/freebies/ then modified in using photoshop
+/*this is just my one of the first game that i had created*//*Many things i had been inspired */
 /*This game design is not my original idea, its original game is PlantVZombie which can be found on playstore*/
 /*Plz dont share this game*/
 /*If you want to play the full version of this game and i dont know why then send email to dxngrg2058@gmail.com*/
