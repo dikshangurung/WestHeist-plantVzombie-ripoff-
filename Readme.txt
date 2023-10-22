@@ -1,6 +1,6 @@
 /*This game is  a rip off of plantvzombie 😅*/
-🤣
-/*-------------------------------Caustion---------------------------------------*/
+
+/*-------------------------------Caution---------------------------------------*/
 If u beat the game in level 1 because you are absolute beast and can't progress further and game just goes on then press alt+enter then exit or open task
 manager
 /*-------------------------------------------------------------------------------*/
